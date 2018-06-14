@@ -1,0 +1,8 @@
+class Rocket {
+
+  constructor() {
+
+  }
+
+
+}
